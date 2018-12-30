@@ -230,7 +230,7 @@
 			<div id="logoarea">
 				<img src="png/logo.png"/>
 			</div>
-			<a href="home"><div id=homebuttonarea></div></a>
+			<a href="index"><div id=homebuttonarea></div></a>
 			<a href="#"><div id=aboutbuttonarea></div></a>
 			<a href="#"><div id=infobuttonarea></div></a>
 		</div>
